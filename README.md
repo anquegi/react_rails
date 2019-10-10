@@ -1,24 +1,5 @@
-# README
+# React project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Basically is the result of following this great tutorial https://medium.com/swlh/getting-started-with-rails-6-and-react-afac8255aecd about adding react to rails 6 application.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I added the configuration files .indium.json and jsconfig.json to work inside emacs
